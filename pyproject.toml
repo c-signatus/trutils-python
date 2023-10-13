@@ -4,6 +4,6 @@ requires = ["setuptools", "setuptools-scm"]
 [project]
 name = "trutils"
 dynamic = "version"
-authors = {
-    name = "Night Shark"
-}
+authors = [
+    {name = "Night Shark"}
+]
