@@ -1,0 +1,11 @@
+[buiild-system]
+requires = ["setuptools", "setuptools-scm"]
+
+dependencies = []
+
+[project]
+name = "trutils"
+dynamic = "version"
+authors = {
+    name = "Night Shark"
+}
